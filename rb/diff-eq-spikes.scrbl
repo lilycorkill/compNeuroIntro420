@@ -3,7 +3,7 @@
 @(require scribble/base
           scribble/manual)
 
-@title[#:tag "DEs and Spikes"]{Differential Equations and Spiking Neuron Models}
+@title[#:tag "DEs and Spikes"]{Differential Equations and Spiking Neuron Models Test}
 
 @include-section{./sections/DEIntro.scrbl}
 @include-section{./sections/iandf.scrbl}
